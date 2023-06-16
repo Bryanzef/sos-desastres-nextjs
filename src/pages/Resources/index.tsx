@@ -19,7 +19,7 @@ export default function LocalResourcesPage() {
         <h1 className="text-4xl font-bold mb-4 text-center">Recursos Locais</h1>
 
         {localResources.length > 4 ? (
-          <ul>
+          <ul className="list-none">
             {localResources.map((resource, index) => (
               <li key={index} className="mb-4">
                 <h2 className="text-2xl font-bold">{resource.type}</h2>

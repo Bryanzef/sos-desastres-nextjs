@@ -9,7 +9,7 @@ export default function PreparationPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-2">Kit de Emergência</h2>
           <p>Monte um kit de emergência com os seguintes itens:</p>
-          <ul className="list-disc list-inside ml-4 mt-2">
+          <ul className="list-none list-inside ml-4 mt-2">
             <li>Água potável</li>
             <li>Alimentos não perecíveis</li>
             <li>Medicamentos essenciais</li>
@@ -27,7 +27,7 @@ export default function PreparationPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-2">Plano Familiar</h2>
           <p>Crie um plano familiar para situações de desastre que inclua:</p>
-          <ul className="list-disc list-inside ml-4 mt-2">
+          <ul className="list-nonelist-inside ml-4 mt-2">
             <li>Pontos de encontro designados</li>
             <li>Rotas de evacuação</li>
             <li>Contatos de emergência</li>
@@ -41,7 +41,7 @@ export default function PreparationPage() {
             Obtenha informações adicionais e recursos sobre preparação para
             emergências:
           </p>
-          <ul className="list-disc list-inside ml-4 mt-2">
+          <ul className="list-none list-inside ml-4 mt-2">
             <li>
               <a
                 href="https://www.defesacivil.gov.br/"

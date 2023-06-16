@@ -37,7 +37,7 @@ export default function UsefulInfoPage() {
             Em caso de desastre, siga os procedimentos de segurança recomendados
             pelas autoridades competentes:
           </p>
-          <ul className="list-disc pl-6 mt-2">
+          <ul className="list-none pl-6 mt-2">
             <li>
               Procure abrigo em local seguro e elevado, evitando áreas
               inundadas.
@@ -63,7 +63,7 @@ export default function UsefulInfoPage() {
             Após um desastre, siga estas orientações para recuperação e buscar
             apoio:
           </p>
-          <ul className="list-disc pl-6 mt-2">
+          <ul className="list-none pl-6 mt-2">
             <li>
               Entre em contato com a Defesa Civil para relatar danos e buscar
               assistência.
