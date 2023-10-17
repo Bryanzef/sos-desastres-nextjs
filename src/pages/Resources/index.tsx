@@ -10,7 +10,7 @@ export default function LocalResourcesPage() {
       name: "Centro de Assistência aos Desabrigados",
       phone: "987-654-321",
     },
-    // Adicione mais recursos locais se necessário
+
   ];
 
   return (
@@ -34,7 +34,7 @@ export default function LocalResourcesPage() {
           </p>
         )}
 
-        {/* Adicione mais conteúdo relacionado a recursos locais, como links úteis ou informações adicionais */}
+       
       </div>
     </div>
   );
