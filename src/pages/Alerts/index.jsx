@@ -1,5 +1,5 @@
 export default function AlertsPage() {
-  // Supondo que você tenha um array de alertas com objetos contendo informações como tipo, mensagem e data
+
   const alerts = [
     {
       type: "Enchente",
