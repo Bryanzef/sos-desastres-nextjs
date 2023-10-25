@@ -67,7 +67,7 @@ export default function HomePage() {
         </ul>
       </section>
 
-      {/* Adicione mais seções ou conteúdo conforme necessário */}
+      {/* Adicionar mais seções ou conteúdo conforme necessário */}
     </div>
   );
 }
