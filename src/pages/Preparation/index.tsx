@@ -19,7 +19,7 @@ export default function PreparationPage() {
             <li>Rádio portátil</li>
             <li>Roupas extras</li>
             <li>Itens de higiene pessoal</li>
-            <li>Dinheiro em espécie</li>
+           
             <li>Documentos importantes</li>
           </ul>
         </section>
@@ -62,20 +62,11 @@ export default function PreparationPage() {
                 Ready.gov
               </a>
             </li>
-            <li>
-              <a
-                href="https://www.redcross.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-500 hover:underline"
-              >
-                Cruz Vermelha
-              </a>
-            </li>
+     
           </ul>
         </section>
 
-        {/* Adicione mais seções ou conteúdo conforme necessário */}
+        {/* Adicionar mais seções ou conteúdo conforme necessário */}
       </div>
     </div>
   );
